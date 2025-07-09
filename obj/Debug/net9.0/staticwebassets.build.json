@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bcZXbU+OqmDZHJIXfeiiH/sEm23Tv4DzprSsNRdOqBA=",
+  "Source": "item_management",
+  "BasePath": "_content/item_management",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

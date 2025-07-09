@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "item_management", "item_management.csproj", "{5BFBA624-3B59-4DE1-4323-BA745C933720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFBA624-3B59-4DE1-4323-BA745C933720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFBA624-3B59-4DE1-4323-BA745C933720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFBA624-3B59-4DE1-4323-BA745C933720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFBA624-3B59-4DE1-4323-BA745C933720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80E04238-2E44-413E-BCF9-82D00D693D0F}
+	EndGlobalSection
+EndGlobal
